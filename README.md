@@ -1,4 +1,1 @@
-# vscode-extension
-
-npm install
-vsce package
+# THE IDE
